@@ -1,5 +1,8 @@
 /* style.css */
 
+body {
+    background: radial-gradient(cyan, darkblue);
+}
 .bp-btn {
     background-color: blue;
     color: white;
