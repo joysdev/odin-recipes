@@ -2,6 +2,8 @@
 
 body {
     background: radial-gradient(cyan, darkblue);
+    width: 100vh;
+    height: 100vh;
 }
 .bp-btn {
     background-color: blue;
